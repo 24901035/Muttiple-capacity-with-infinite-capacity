@@ -1,6 +1,7 @@
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
-# NAME:MANIKANDAN M
-# REG NO:212224040186
+Developed By : MOHAN R
+
+Reg No : 212224230168
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 10 seconds, serivice time of two lathe machine follow exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
@@ -61,7 +62,8 @@ print("--------------------------------------------------------------")
 
 
 ## Output :
-![444884524-484a62c6-af34-47d7-b64f-742b365a2df7](https://github.com/user-attachments/assets/43256da0-08ab-4351-b08f-15741711790e)
+![Screenshot 2025-05-25 133744](https://github.com/user-attachments/assets/870dab60-32ae-4c75-9dd9-77dea632aa8c)
+
 
 ## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
